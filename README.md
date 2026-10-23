@@ -4,6 +4,8 @@ Aprende Estructura y Función de las Proteínas practicando: secuencia, 3D, pleg
 
 **Usar la app:** https://fborrasumh.github.io/proteia/
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23602305.svg)](https://doi.org/10.5281/zenodo.23602305)
+
 **Idiomas:** español (por defecto), inglés, portugués; selector en la barra superior (o `?lang=en` / `?lang=pt` en la URL).
 
 ## Qué hace
@@ -57,7 +59,7 @@ ORCID: Fernando Borrás Rocher [0000-0002-5519-4573](https://orcid.org/0000-0002
 
 ## Cómo citar
 
-Borrás Rocher, F. y Herranz López, M. D. (2026). *ProteIA* (v1.0.0) [Software]. (DOI en trámite)
+Borrás Rocher, F. y Herranz López, M. D. (2026). *ProteIA* (v1.0.0) [Software]. DOI: [10.5281/zenodo.23602305](https://doi.org/10.5281/zenodo.23602305)
 
 ## Licencia
 
